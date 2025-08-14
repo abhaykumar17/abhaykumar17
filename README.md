@@ -2,6 +2,9 @@
 
 Aspiring Data Analyst skilled in Power BI, SQL, and Python, with a strong foundation in Machine Learning. Dedicated to turning data into actionable insights that drive efficiency, informed decisions, and measurable results.
 
+
+![WhatsApp Image 2025-08-14 at 16 07 11_3e2fec15](https://github.com/user-attachments/assets/6e052019-41c1-4231-ad41-feb8bb8a060a)
+
 ---
 
 ## 📍 About Me
